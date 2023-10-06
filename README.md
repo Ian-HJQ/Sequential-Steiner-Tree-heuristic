@@ -1,5 +1,7 @@
 # Sequential-Steiner-Tree-heuristic
 
+This is a project for CENG4120 Computer-aided Design for Very Large Scale Integrated Circuits. 
+
 In this project, I made use of a heuristic that is introduced in the lecture slides to build a Steiner tree sequentially. This method starts by finding a minimum bounding box(mbb) on a pair of points that have the shortest rectilinear distance. Then it continuously find the closest pin and create a mbb another mbb, while deleting the unwanted L-shaped route from the previous mbb. The loop stops when the set of unrouted pins is empty. Below is a pseudocode for the method:
 1.	Find the closest pin pair, construct their minimum bounding box (mbb).
 2.	Find the closest point pair (pmbb,pc) between any point pmbb on the mbb and pc from the set of pins to consider.
