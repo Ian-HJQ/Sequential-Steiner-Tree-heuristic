@@ -9,3 +9,5 @@ In this project, I made use of a heuristic that is introduced in the lecture sli
 6.	For the last pin, add (delete) any one of the two L-shape.
 
 This project is implemented in C.
+
+![Test case 5](https://github.com/Ian-HJQ/Sequential-Steiner-Tree-heuristics/assets/71361819/3127d341-55a2-48f4-864b-b768923757e4)
