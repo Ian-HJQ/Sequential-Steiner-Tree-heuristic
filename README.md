@@ -12,4 +12,11 @@ I made use of a heuristic that is introduced in the lecture slides to build a St
 
 This project is implemented in C.
 
+
+Example visual for the process:
+
+![ezgif-2-edb8d11cb8](https://github.com/Ian-HJQ/Sequential-Steiner-Tree-heuristic/assets/71361819/d057c493-6723-4c08-80e4-01b797486659)
+
+Example output plotted with provided matplotlib script:
+
 ![Test case 5](https://github.com/Ian-HJQ/Sequential-Steiner-Tree-heuristics/assets/71361819/3127d341-55a2-48f4-864b-b768923757e4)
